@@ -69,7 +69,7 @@ First Decree Chief
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-goofisdead-3B2A1A?style=for-the-badge&logo=github&logoColor=EEDC82)](https://github.com/goofisdead)
-[![Discord](https://img.shields.io/badge/Discord-goofisdead-3B2A1A?style=for-the-badge&logo=discord&logoColor=EEDC82)](#)
+[![Discord](https://img.shields.io/badge/Discord-goofisded-3B2A1A?style=for-the-badge&logo=discord&logoColor=EEDC82)](#)
 [![guns.lol](https://img.shields.io/badge/guns.lol-goofisdead-3B2A1A?style=for-the-badge&logoColor=EEDC82)](https://guns.lol/goofisdead)
 
 <br>
